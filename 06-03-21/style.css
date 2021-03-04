@@ -1,0 +1,12 @@
+body{
+    padding: 10 10;
+    border: 5px solid;
+    border-color: crimson;
+}
+h1 {
+    color:rgb(52, 97, 87);
+}
+p {
+    color:rgba(211, 82, 73, 0.808);
+    background-color: antiquewhite;
+}
